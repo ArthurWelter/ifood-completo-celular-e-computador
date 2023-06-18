@@ -15,7 +15,9 @@
     --white: #fff;
     --dark: #1e1c2a;
 }
-
+body{
+  overflow-x: hidden;
+}
 .navigation{
     z-index: 1;
     background-color: var(--white);
